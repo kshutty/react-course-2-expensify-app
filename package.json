@@ -62,7 +62,7 @@
     "sass-loader": "^6.0.7",
     "style-loader": "^0.18.2",
     "uuid": "^3.3.2",
-    "validator": "^8.2.0",
+    "validator": "^13.7.0",
     "watchpack": "^1.6.0",
     "webpack": "^4.38.0",
     "webpack-cli": "^3.3.6"
